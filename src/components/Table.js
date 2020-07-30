@@ -5,6 +5,7 @@ import Selectors from './Selectors';
 import './Table.css';
 import fetchPlanets from '../services/fetchPlanets';
 import SortButton from './SortButton';
+import mock from '../mocks/resultsMock';
 
 function renderTableHead(planets) {
   return (
@@ -55,7 +56,7 @@ const Table = () => {
         })
         .catch(() => {
           setIsFetching(false);
-          setData('API fora do ar');
+          setData(mock.results);
         });
     }
   }, [data.length, setData]);

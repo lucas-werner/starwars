@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/starwars/static/css/main.81ef3308.chunk.css",
+    "main.js": "/starwars/static/js/main.45d7626a.chunk.js",
+    "main.js.map": "/starwars/static/js/main.45d7626a.chunk.js.map",
+    "runtime-main.js": "/starwars/static/js/runtime-main.d2cd51f1.js",
+    "runtime-main.js.map": "/starwars/static/js/runtime-main.d2cd51f1.js.map",
+    "static/js/2.1b12210a.chunk.js": "/starwars/static/js/2.1b12210a.chunk.js",
+    "static/js/2.1b12210a.chunk.js.map": "/starwars/static/js/2.1b12210a.chunk.js.map",
+    "index.html": "/starwars/index.html",
+    "precache-manifest.3b331c0604019f1aaf3db2853cfebd9f.js": "/starwars/precache-manifest.3b331c0604019f1aaf3db2853cfebd9f.js",
+    "service-worker.js": "/starwars/service-worker.js",
+    "static/css/main.81ef3308.chunk.css.map": "/starwars/static/css/main.81ef3308.chunk.css.map",
+    "static/js/2.1b12210a.chunk.js.LICENSE": "/starwars/static/js/2.1b12210a.chunk.js.LICENSE",
+    "static/media/App.css": "/starwars/static/media/space_background2.a4df1658.jpg",
+    "static/media/sw_logo2.png": "/starwars/static/media/sw_logo2.c6f69db5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2cd51f1.js",
+    "static/js/2.1b12210a.chunk.js",
+    "static/css/main.81ef3308.chunk.css",
+    "static/js/main.45d7626a.chunk.js"
+  ]
+}
